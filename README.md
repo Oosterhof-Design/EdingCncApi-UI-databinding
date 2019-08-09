@@ -10,6 +10,10 @@ Example for using data binding with the CncAPI Net wrapper.
 * CncApi_Net (https://www.nuget.org/packages/CncApi_Net64/)
 * CncApiNotifyPropertyChanged
 
+# Note
+
+DataBinding problem with debugging. Please run application without Debugging in Visual Studio.If anyone knows causing this problem please contact me:(info@oosterhof-design.com)
+
 
 
 
