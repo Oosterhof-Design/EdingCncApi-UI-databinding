@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CncApiNotifyPropertyChanged</name>
+    </assembly>
+    <members>
+        <member name="T:OosterhofDesign.NotifyPropertyChanged.NotifyCncApiPropertyChanged`1">
+            <summary>
+            Checks for changed properties from the CncServer
+            </summary>
+            <typeparam name="T">The CncApi type</typeparam>
+        </member>
+        <member name="P:OosterhofDesign.NotifyPropertyChanged.NotifyCncApiPropertyChanged`1.MethodReturnValue">
+            <summary>
+            The return value from CncServerMethod. Only valid if you have set the CncServermethod in the contructor
+            </summary>
+        </member>
+        <member name="E:OosterhofDesign.NotifyPropertyChanged.NotifyCncApiPropertyChanged`1.PropertyChanged">
+            <summary>
+            The method that will handle the PropertyChangedEventHandler event
+            </summary>
+        </member>
+        <member name="M:OosterhofDesign.NotifyPropertyChanged.NotifyCncApiPropertyChanged`1.#ctor(`0,System.Reflection.MethodInfo,System.Object[],System.Object,System.Reflection.PropertyInfo[])">
+            <summary>
+            Method to raise the PropertyChangedEventHandler for the CncApi properties
+            </summary>
+            <param name="EVENT_HANDLER_CLASS">The object whose properties are to be checked</param>
+            <param name="CNCSERVER_METHOD">Some CncServer methods are not returning pointers. Every time that you check the properties this method will also run. Note: Only needed if the method from the cncserver does not return a pointer.</param>
+            <param name="CNCSERVER_METHOD_ARGS">Arguments for the CncServer Methods</param>
+            <param name="CNCSERVER_OBJ">Object where the CncMethod is located. If the method is static this value can be null.</param>
+            <param name="SELECTED_PROPERIES">Properties to check</param>
+        </member>
+        <member name="M:OosterhofDesign.NotifyPropertyChanged.NotifyCncApiPropertyChanged`1.CompareArray(System.Type,System.Object,System.Object,System.Reflection.PropertyInfo,System.Object@)">
+            <summary>
+            Method for comparing arrays (not implemented)
+            </summary>
+            <param name="VALUE_TYPE">Type of the value</param>
+            <param name="CURRENT_VALUE">Current value from the CncServer</param>
+            <param name="LAST_VALUE">previous value of the property</param>
+            <param name="INFO">Property to check</param>
+            <param name="CACHE_STORE">Location to save the current value for the next time to compare</param>
+            <returns>if array is equal then it returns true</returns>
+        </member>
+        <member name="M:OosterhofDesign.NotifyPropertyChanged.NotifyCncApiPropertyChanged`1.InvokeCncApiPropertyChanged">
+            <summary>
+            Ckeck for changes for all selected properties.
+            </summary>
+        </member>
+        <member name="M:OosterhofDesign.NotifyPropertyChanged.NotifyCncApiPropertyChanged`1.StartCncApiInvokePropertyChanged(System.Threading.CancellationTokenSource,System.Int32)">
+            <summary>
+            Start check the selected properties for databinding. 
+            </summary>
+            <param name="CANCEL">Canceltoken to stop cheking for property changes</param>
+            <param name="REFRESH_TIME">The time interval to check the properties</param>
+            <returns>If it returns false then the method is terminated unexpectedly. True if you used the canceltoken</returns>
+        </member>
+    </members>
+</doc>
