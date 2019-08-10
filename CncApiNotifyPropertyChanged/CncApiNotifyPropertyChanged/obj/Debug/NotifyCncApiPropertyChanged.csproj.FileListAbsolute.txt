@@ -1,0 +1,6 @@
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\CncApiNotifyPropertyChanged\CncApiNotifyPropertyChanged\bin\Debug\CncApiNotifyPropertyChanged.dll
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\CncApiNotifyPropertyChanged\CncApiNotifyPropertyChanged\bin\Debug\CncApiNotifyPropertyChanged.pdb
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\CncApiNotifyPropertyChanged\CncApiNotifyPropertyChanged\obj\Debug\NotifyCncApiPropertyChanged.csproj.CoreCompileInputs.cache
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\CncApiNotifyPropertyChanged\CncApiNotifyPropertyChanged\obj\Debug\CncApiNotifyPropertyChanged.dll
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\CncApiNotifyPropertyChanged\CncApiNotifyPropertyChanged\obj\Debug\CncApiNotifyPropertyChanged.pdb
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\CncApiNotifyPropertyChanged\CncApiNotifyPropertyChanged\bin\Debug\CncApiNotifyPropertyChanged.xml

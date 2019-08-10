@@ -29,3 +29,18 @@ C:\Users\Sander Oosterhof\Downloads\EdingCnc-master\EdingCnc-master\EdingCncData
 C:\Users\Sander Oosterhof\Downloads\EdingCnc-master\EdingCnc-master\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.exe
 C:\Users\Sander Oosterhof\Downloads\EdingCnc-master\EdingCnc-master\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.pdb
 C:\Users\Sander Oosterhof\Downloads\EdingCnc-master\EdingCnc-master\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.csprojAssemblyReference.cache
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\bin\Debug\cncapi64.dll
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\bin\Debug\EdingCncDatabinding.exe.config
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\bin\Debug\EdingCncDatabinding.exe
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\bin\Debug\EdingCncDatabinding.pdb
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\bin\Debug\CncapiNet64.dll
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\bin\Debug\CncApiNotifyPropertyChanged.dll
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\bin\Debug\CncApiNotifyPropertyChanged.xml
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.csprojAssemblyReference.cache
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.Form1.resources
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.Properties.Resources.resources
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.csproj.GenerateResource.cache
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.csproj.CoreCompileInputs.cache
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.csproj.CopyComplete
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.exe
+F:\S Oosterhof\Mijn Documenten\GitHub\EdingCnc\EdingCncDatabinding\EdingCncDatabinding\obj\Debug\EdingCncDatabinding.pdb
