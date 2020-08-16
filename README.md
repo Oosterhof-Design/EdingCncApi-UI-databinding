@@ -1,4 +1,4 @@
-# EdingCnc UI databinding
+# EdingCncApi UI databinding
 
 Example for using data binding with the EdingCncApi NetFramework wrapper.
 
